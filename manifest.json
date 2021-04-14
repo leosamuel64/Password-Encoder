@@ -1,0 +1,15 @@
+{
+    "name": "Password Manager",
+    "description": "description ...",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_security_policy": "script-src 'self' 'sha256-UmFgjWzNkLRO6piA1JBNutbpVQaxNSh+C1PuhJ/IYBo='; object-src 'self'",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "logo1.png"
+      },
+
+    "permissions": [
+        "tabs"
+    ]
+  }
