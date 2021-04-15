@@ -1,9 +1,9 @@
 {
-    "name": "Password Manager",
-    "description": "description ...",
+    "name": "Password Encoder",
+    "description": "Provides a highly secure password from a simple password",
     "version": "1.0",
     "manifest_version": 2,
-    "content_security_policy": "script-src 'self' 'sha256-UmFgjWzNkLRO6piA1JBNutbpVQaxNSh+C1PuhJ/IYBo='; object-src 'self'",
+    "content_security_policy": "script-src 'self' 'sha256-z5xxzCAJrlfsx6TD3afwye1zOpC2iLoyxteoZ/WTaac='; object-src 'self'",
     "browser_action": {
         "default_popup": "index.html",
         "default_icon": "logo1.png"
